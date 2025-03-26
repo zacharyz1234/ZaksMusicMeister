@@ -23,3 +23,9 @@ C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\obj\Debug\net9.0\MusicMei
 C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\obj\Debug\net9.0\MusicMeister.genruntimeconfig.cache
 C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\obj\Debug\net9.0\ref\MusicMeister.dll
 C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\obj\Debug\net9.0\MusicMeister.sourcelink.json
+C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\bin\Debug\net9.0\NAudio.dll
+C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\bin\Debug\net9.0\NAudio.Asio.dll
+C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\bin\Debug\net9.0\NAudio.Core.dll
+C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\bin\Debug\net9.0\NAudio.Midi.dll
+C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\bin\Debug\net9.0\NAudio.Wasapi.dll
+C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\bin\Debug\net9.0\NAudio.WinMM.dll

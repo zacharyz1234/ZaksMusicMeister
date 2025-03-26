@@ -31,7 +31,7 @@ namespace MusicMeister
             {
                 new MenuBarItem("_File", new MenuItem[]
                 {
-                    new MenuItem("Open", "Open a music file", () => Application.RequestStop()),
+                    new MenuItem("Open", "Open a music file", () => Player.PlayAudioFile()),
                 
                     new MenuItem("_Open Stream", "Open a stream", () => Application.RequestStop()),
 

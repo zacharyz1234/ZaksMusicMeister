@@ -44,6 +44,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
             "Terminal.Gui": {
               "target": "Package",
               "version": "[1.17.1, )"
