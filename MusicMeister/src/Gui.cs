@@ -49,6 +49,7 @@ namespace MusicMeister
 
 
             //Add the layout elements and run the app
+            top.Add(menu);
             top.Add(win);
             Application.Run();
         }

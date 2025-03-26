@@ -22,3 +22,4 @@ C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\obj\Debug\net9.0\refint\M
 C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\obj\Debug\net9.0\MusicMeister.pdb
 C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\obj\Debug\net9.0\MusicMeister.genruntimeconfig.cache
 C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\obj\Debug\net9.0\ref\MusicMeister.dll
+C:\Users\zakze\Documents\ZaksMusicMeister\MusicMeister\obj\Debug\net9.0\MusicMeister.sourcelink.json
